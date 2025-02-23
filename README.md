@@ -7,6 +7,6 @@
 </div>
 <div align="center">
   
-  # Learning Journey
+  # About Me
 
 </div>
