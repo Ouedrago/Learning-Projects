@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ## Learning Journey
+  ## About Me
   
 </div>
 <div align="left">
