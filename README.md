@@ -15,7 +15,7 @@
 
 <p>I have 8 years of expereience working in the telecom sector for Ericsson. Four years of experience in RAN Planning and Optimization within the managed service and project domain. 
  I am currently working as an AI & Analytics Solution Architect within the Cognitive Network Solutions where we are transforming the ways of working from the traditional ways to more efficient ways by introducing cognitive softwares powered by AI/ML and automations to 
- Neywork operators within Middle East and Africa. </p>  
+ Network operators within Middle East and Africa. </p>  
 
 </div>
 
