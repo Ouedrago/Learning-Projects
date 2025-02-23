@@ -22,7 +22,12 @@
 <div align="left">
   
   ### Projects List
-  
+
+   <details>
+    <summary>Part 2: Learning Resources</summary>
+
+   - [01-THREE TIER ARCHITECTURE]
+  </details>
 </div>
   
 
